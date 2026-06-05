@@ -1,0 +1,7 @@
+*.class
+*.jar
+/bin/
+/.settings/
+/.classpath
+/.project
+/lib/mysql-connector-j-*.jar
